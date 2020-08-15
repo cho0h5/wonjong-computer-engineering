@@ -1,1 +1,1 @@
-# wonjong-computer-engineering
+# 원종고 진로아카데미 컴퓨터공학
